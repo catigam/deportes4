@@ -1,0 +1,805 @@
+#EXTM3U
+#EXTINF:-1,--- LISTA GRATIS achoAPPS.com
+http://www.achoTV.com
+#EXTINF:-1,--- Visita www.achoAPPS.com ---
+
+#EXTINF: -1, Abu Dhabi Sports 1 HD www.achoAPPS.com
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF: -1, Abu Dhabi Sports 1 SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF: -1, Abu Dhabi Sports 2 HD www.achoAPPS.com
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF: -1, Abu Dhabi Sports 2 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF: -1, Abu Dhabi Sports 2 SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+# EXTINF: -1, AD Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
+
+#EXTINF: -1, AD SPORT 1 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF : -1, AD Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
+
+#EXTINF: -1, AD SPORT 2 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF: -1, Al Kass Sports 1 HD www.achoAPPS.com
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF: -1, Al Kass Sports 2 HD www.achoAPPS.com
+http://www.elahmad.com/tv/m3u8/alkass.m3u8? id = alkass2
+
+#EXTINF: -1, Al Kass Sports 3 HD www.achoAPPS.com
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF: -1, Al Kass Sports 5 HD www.achoAPPS.com
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+# EXTINF: -1, ALL Sports HD www.achoAPPS.com
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF: -1, Arena Sport 1
+http://93.155.143.90:85/m3u8/arenasport1.m3u8
+
+#EXTINF: -1, Arena Sport 1 HD www.achoAPPS.com
+http://185.167.208.157/master_414.m3u8
+
+#EXTINF: -1, Arena Sport 2
+http://93.155.143.90:85/m3u8/arenasport2.m3u8
+
+#EXTINF: -1, Arena Sport 2
+http://185.167.208.157/master_348.m3u8
+
+#EXTINF: -1, Arena Sport 3
+http://93.155.143.90:85/m3u8/arenasport3.m3u8
+
+#EXTINF: -1, Arena Sport 4
+http://93.155.143.90:85/m3u8/arenasport4.m3u8
+
+#EXTINF: -1, Arena Sport 5
+http://93.155.143.90:85/m3u8/arenasport5.m3u8
+
+#EXTINF: -1, Band Sports http://zona-iptv.ru/
+http://dns.infinitytv.xyz:8000/Isabel/isabel/370
+
+#EXTINF: -1, Band Sports HD www.achoAPPS.com 720
+http://dns.infinitytv.xyz:8000/Isabel/isabel/1600
+
+#EXTINF: -1, Bein Sport HD www.achoAPPS.com
+http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/2568
+
+#EXTINF: -1, BigTen Red HD www.achoAPPS.com
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+
+#EXTINF: -1, BT Sport 1 HD www.achoAPPS.com
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1019
+
+#EXTINF: -1, BT Sport 3 HD www.achoAPPS.com
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1015
+
+#EXTINF: -1, CCTV-5 Sports HD www.achoAPPS.com
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+
+#EXTINF: -1, Chelsea TV
+http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/03.m3u8
+
+#EXTINF: -1 Chelsea TV de alta definición 720
+http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8
+
+#EXTINF: -1 combate Ir
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+
+#EXTINF: -1 Fighting
+http://dns.infinitytv.xyz:8000/Isabel/isabel/110
+
+# EXTINF: -1, 2 Combat HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/21621
+
+#EXTINF: -1 Combate HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/29735
+
+#EXTINF: -1, DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF: -1, Dubai Sports
+http://dmiftvll.mangomolo.com/dubaisports /smil:dubaisports.smil/chunklist_b500000.m3u8
+
+#EXTINF: -1, Dubai Sports 4 HD www.achoAPPS.com 720
+http://159.8.154.70:1935/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+
+#EXTINF: -1, EI
+http://dns.infinitytv.xyz:8000/Isabel/isabel/43013
+
+#EXTINF: -1, ESPN
+http://dns.infinitytv.xyz:8000/Isabel/isabel/232
+
+#EXTINF: -1, ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF: -1 ESPN 2
+http://dns.infinitytv.xyz:8000/Isabel/isabel/408
+
+#EXTINF:-1,ESPN 2 HD www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/17511
+
+#EXTINF:-1,ESPN 2 HD www.achoAPPS.com 720
+http://dns.infinitytv.xyz:8000/Isabel/isabel/1603
+
+#EXTINF:-1,ESPN Brasil
+http://dns.infinitytv.xyz:8000/Isabel/isabel/369
+
+#EXTINF:-1,ESPN Brasil HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/13523
+
+#EXTINF:-1,ESPN Brasil HD www.achoAPPS.com 720
+http://dns.infinitytv.xyz:8000/Isabel/isabel/1588
+
+#EXTINF:-1,ESPN Extra
+http://dns.infinitytv.xyz:8000/Isabel/isabel/21632
+
+#EXTINF:-1,ESPN Extra HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/21630
+
+#EXTINF: -1, ESPN Extra HD www.achoAPPS.com 720
+http://dns.infinitytv.xyz:8000/Isabel/isabel/21631
+
+#EXTINF: -1, ESPN HD www.achoAPPS.com
+http://80.80.160.168/live/6/2500000/live.m3u8
+
+#EXTINF: -1, ESPN HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/17045
+
+#EXTINF: -1, Eurosport 1
+http://77.245.98.22:8000/play/307/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, Eurosport 1
+http://82.200.127.58:8080/udp/239.54.5.45:1224
+
+#EXTINF: - 1, Eurosport 1
+http://88.150.248.21:7337/tvarm.ruindex.m3u8?seg-user-zona-iptv.ru-v1-a1.m3u
+
+#EXTINF: -1, Eurosport 1
+http://88.150.248.21:7337/tvarm.ruindex.m3u8?seg-user-zona-iptv-ru-v1-a1.m3u
+
+#EXTINF: -1, Eurosport 1
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, Eurosport 1 HD www.achoAPPS.com
+http://46.241.65.10:81/udp/239.54.6.174:1224
+
+#EXTINF: -1, Eurosport 1 HD www.achoAPPS.com
+http://91.231.219.145:80/tv_eurosport_1_HD/playlist.m3u8
+
+#EXTINF: -1, Eurosport 1 HD www.achoAPPS.com (checo)
+http://185.167.208.157/master_344. m3u8
+
+#EXTINF: -1, Eurosport 2 HD www.achoAPPS.com (Checa)
+http://185.167.208.157/master_337.m3u8
+
+#EXTINF: -1, Deportes extremos
+http://91.90.253.66:8080/CH730_std/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, Deportes extremos
+http://95.170.157.5:8088/channel19.m3u8
+
+#EXTINF: -1, Extreme Sports
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/144/index.m3u8
+
+#EXTINF: -1, Deportes extremos
+http://37.192.76.72:81/udp/239.1.12.11:1234
+
+#EXTINF: -1, Deportes extremos
+http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/144/index.m3u8
+
+#EXTINF: -1, Fight Box
+http://92.43.140.249/s86/04.m3u8
+
+#EXTINF: -1, Fight Sports HD www.achoAPPS.com
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+#EXTINF: -1, Fight Sports SD
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF: -1, Fightbox
+http://92.43.140.200/s86/index.m3u8
+
+# EXTINF: -1, FLOW Sports 1 HD www.achoAPPS.com
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+
+#EXTINF: -1, Fox Sports
+http://dns.infinitytv.xyz:8000/Isabel/isabel/368
+
+#EXTINF: -1, FOX Sports 2 HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/21629
+
+#EXTINF: -1, FOX Sports HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/29336
+
+#EXTINF: -1, FOX Sports HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/13522
+
+#EXTINF: -1, FOX Sports HD www.achoAPPS.com 720
+http://dns.infinitytv.xyz:8000/Isabel/isabel/1589
+
+#EXTINF: -1, Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF : -1, Hard Knocks Fighting HD www.achoAPPS.com
+http://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
+
+#EXTINF: -1, IRC Sport TV
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+
+#EXTINF: -1, IRC TV deportiva (IT)
+http://178.32.140.155/irctv/mp4:irctv/playlist.m3u8
+
+#EXTINF: -1, KAZsport
+http://109.248.236.41:4433/udp/238.1.1.116:1234
+
+#EXTINF: -1, Macquarie Sports HD www.achoAPPS.com 720
+https://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/master.m3u8
+
+#EXTINF: -1, más vídeo del televisor de alta definición
+http://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF: -1, Motorvision TV
+http://85.244.70.140:7000/play/a00t
+
+#EXTINF: -1, MUTV HD www.achoAPPS.com 720
+http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
+
+#EXTINF: -1, NBA TV
+http://51.38.174.110:8081/22Af0uOf1Jac13xaTygYW4INVl2NDT6BQR82QrRdGrQ/nba_id2454519/index.m3u8
+
+#EXTINF: -1, el televisor Equipo de la NBA
+http://dns.infinitytv.xyz:8000/Isabel/isabel/12236
+
+#EXTINF: -1, la NBC GOLF HD www.achoAPPS.com
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+
+#EXTINF: -1, NBC Golf HD www.achoAPPS.com (checo)
+http://185.167.208.157/master_453.m3u8
+
+#EXTINF: -1, NBS Sports HD www.achoAPPS.com
+http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF: -1, Nova Sport 1
+http://185.167.208.157/master_334.m3u8
+
+#EXTINF: -1, Nova Sport 1 HD www.achoAPPS.com (checo)
+http://185.167.208.157/master_339.m3u8
+
+#EXTINF: -1, Nova Sport 2 HD www.achoAPPS.com (checo)
+http://185.167.208.157/master_413.m3u8
+
+#EXTINF: -1, Ocko Sport HD www.achoAPPS.com (checo )
+http://185.167.208.157/master_396.m3u8
+
+#EXTINF: -1, Olimpic Channel HD www.achoAPPS.com
+https://ott-live.olympicchannel.com/out/u/OC1.m3u8
+
+#EXTINF: -1, Olympic Channel HD www.achoAPPS.com
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF: -1, Olympic Channel HD www.achoAPPS.com 720
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF: -1, ORF Sport
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF: -1, Q Sport
+http://185.167.208.157/ master_362.m3u8
+
+#EXTINF: -1, QazSport
+http://stream.euroasia.lfstrm.tv/kazsport/1/index.m3u8
+
+#EXTINF: -1, QAZSPORT HD www.achoAPPS.com en русском
+http://217.196.24.146:8000/play/529
+
+#EXTINF: -1, Rai Sport + (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+
+#EXTINF: -1, Red Bull TV HD www.achoAPPS.com
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF: -1, Red Bull TV HD www.achoAPPS.com
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+# EXTINF: -1, RTS HD www.achoAPPS.com 720 (DE)
+http://91.250.73.116:1935/live/RTS2015/playlist.m3u8
+
+#EXTINF: -1, Extremo ruso
+http://92.43.140.249/s47/04.m3u8
+
+# EXTINF: -1, Russian Extreme
+http://83.246.248.212:81/udp/239.54.7.171:1224
+
+#EXTINF: -1, Russian Extreme HD www.achoAPPS.com
+http://95.170.157.5:8088/channel40.m3u8
+
+#EXTINF: -1, Setenta Eurasia + HD www.achoAPPS.com
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+
+#EXTINF: -1, Setanta Sports
+http://92.43.140.200/s81/04.m3u8
+
+#EXTINF: - 1, Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF: -1, Setanta Sports
+http://109.248.236.41:4433/udp/238.1.1.60:1234
+
+#EXTINF: - 1, Setanta Sports
+http://stream.euroasia.lfstrm.tv/setanta_sport_hd/0/index.m3u8
+
+#EXTINF: -1, Setanta Sports
+http://stream.euroasia.lfstrm.tv/setanta_sport_hd/1/index.m3u8
+
+#EXTINF: -1, Setanta Sports
+http://92.43.140.249:80/s81/04.m3u8
+
+#EXTINF: -1, Setanta Sports
+http://92.43.140.204:80/s81/index.m3u8
+
+#EXTINF: - 1, Setanta Sports +
+http://stream.euroasia.lfstrm.tv/setanta_sport_plus_hd/0/index.m3u8
+
+#EXTINF: -1, Setanta Sports +
+http://ott-cdn.ucom.am/s82/04.m3u8
+
+#EXTINF: -1 , Setanta Sports +
+http://stream.euroasia.lfstrm.tv/setanta_sport_plus_hd/1/index.m3u8
+
+#EXTINF: -1, Setanta Sports +
+http://92.43.140.200/s82/04.m3u8
+
+#EXTINF: -1 , Setanta Sports +
+http://109.248.236.41:4433/udp/238.1.1.61:1234
+
+#EXTINF: -1, Setanta Sports + FHD
+http://stream.euroasia.lfstrm.tv/setanta_sport_plus_hd/3/index.m3u8
+
+#EXTINF: -1, Setanta Sports + HD www.achoAPPS.com
+http://stream.euroasia.lfstrm.tv/setanta_sport_plus_hd/2/index.m3u8
+
+#EXTINF: -1, Setanta Sports + HD www.achoAPPS.com
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-zona-iptv.ru-v1-a1
+
+#EXTINF: -1, Setanta Sports HD www.achoAPPS.com
+http://stream.euroasia.lfstrm.tv/setanta_sport_hd/2/index.m3u8
+
+#EXTINF: -1, Sport 1
+http://185.167.208.157/master_405.m3u8
+
+#EXTINF: -1, Sport 1 HD www.achoAPPS.com
+http://pr2pr.net/kanalas/VnGuU1/111
+
+#EXTINF: -1, Sport 1 HD www.achoAPPS.com (LT)
+http://88.216.48.14:80/sport1hd/live.m3u8
+
+#EXTINF: -1, Sport 2 (eslovaco)
+http://185.167.208.157/master_355.m3u8
+
+# EXTINF: -1, Sport 2 HD www.achoAPPS.com (checo)
+http://185.167.208.157/master_406.m3u8
+
+#EXTINF: -1, Sport 5
+http://185.167.208.157/master_342.m3u8
+
+#EXTINF: -1, Sport Max http://zona-iptv.ru/
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8
+
+#EXTINF: -1, DEPORTES TV 1
+http://85.244.70.140:7000/play/a035
+
+#EXTINF: -1, Sport TV 2
+http://85.244.70.140:7000/play/a02t
+
+#EXTINF: -1, Sport TV 3
+http://85.244.70.140:7000/play/a02w
+
+#EXTINF: -1 DEPORTES MAX HD www.achoAPPS.com
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+
+#EXTINF: -1 SporTV
+http://dns.infinitytv.xyz:8000/Isabel/isabel/109
+
+#EXTINF: -1, 2 HD www.achoAPPS.com SporTV
+http://dns.infinitytv.xyz:8000/Isabel/isabel/21627
+
+#EXTINF: -1, 2 SporTV HD www.achoAPPS.com 720
+http://dns.infinitytv.xyz:8000/Isabel/isabel/1619
+
+#EXTINF: -1 3 SporTV
+http://dns.infinitytv.xyz:8000/Isabel/isabel/366
+
+#EXTINF: -1, 3 SporTV HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/17042
+
+#EXTINF: -1 , SporTV 3 HD www.achoAPPS.com 720
+http://dns.infinitytv.xyz:8000/Isabel/isabel/1620
+
+#EXTINF: -1 SporTV 4K UHD
+http://dns.infinitytv.xyz:8000/Isabel/isabel/21749
+
+#EXTINF : -1 SporTV HD www.achoAPPS.com
+http://dns.infinitytv.xyz:8000/Isabel/isabel/11472
+
+#EXTINF: -1 SporTV HD www.achoAPPS.com 720
+http://dns.infinitytv.xyz:8000/Isabel/isabel/1583
+
+# EXTINF: -1, SporTVL Italy
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
+
+#EXTINF: -1, Super Power Sport (Польский)
+http://185.167.208.157/master_434.m3u8
+
+#EXTINF: - 1, SUPER SOCCER TV HD www.achoAPPS.com
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+
+#EXTINF: -1, Telekom Football 8 HD www.achoAPPS.com
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-15207_i-_k-_q-_t-hdvideo/tsfuba08_1@514046/index_3235_av-p.m3u8?sd=10&rebase= en
+
+#EXTINF: -1, Toros TV
+http://85.244.70.140:7000/play/a014
+
+#EXTINF: -1, Turkmenistan Sport HD www.achoAPPS.com
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF: -1, TV play Sports + HD www.achoAPPS.com
+http://pr2pr.net/kanalas/VnGuU1/553
+
+#EXTINF: -1, TV Sport 2 HD www.achoAPPS.com
+http://5.255.90.254:5001/play/a007
+
+#EXTINF: -1, TVP Sport
+http://185.167.208.157/master_432.m3u8
+
+#EXTINF: -1, Viasat Sport
+http://109.248.236.41:4433/udp/238.1.1.50:1234
+
+#EXTINF: -1, Viasat Sport
+http://95.170.157.5:8088/channel46.m3u8
+
+#EXTINF: -1, Viasat Sport
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
+
+#EXTINF: -1, Viasat Sport HD www.achoAPPS.com
+http://Viipuri.iptvbot.biz/iptv/NGLSL7U7BCZV2P/208/index.m3u8
+
+#EXTINF: -1, Viasat Sport HD www.achoAPPS.com
+http://91.231.219.145:80/tv_viasat_sport_HD/playlist.m3u8
+
+#EXTINF: -1, Viasat Sport
+http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
+
+#EXTINF: -1, YAS Sports
+http://adtv.ercdn.net/adsportextra/adsportextra_360p.m3u8
+
+#EXTINF: -1 , YAS Sports HD www.achoAPPS.com
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
+#EXTINF: -1, Astrakhan.Ru Sport
+http://91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF: - 1, Astrakhan.Ru Sport FHD
+http://91.211.143.214/astrakhanrusporthd/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, Astrakhan.Ru Sport HD www.achoAPPS.com
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1 /index.m3u8
+
+#EXTINF: -1, Astrakhan.Ru Sport HD www.achoAPPS.com
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF: -1, Astrakhan.Ru Sport HD www.achoAPPS.com 720
+http://91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8
+
+#EXTINF: -1, Belarus 5
+http://95.46.208.76:9898/belarus5
+
+#EXTINF: -1, Live!
+http://109.248.236.41:4433/udp/238.1.1.35:1234
+
+#EXTINF: -1, Mundo ecuestre
+http://109.248.236.41:4433/udp/238.1.1.64:1234
+
+#EXTINF: -1, Mundo ecuestre HD www.achoAPPS.com
+http://9d8c5662.suklakakl.site/iptv/XPMTTGZETTGURA/214/index.m3u8
+
+#EXTINF: -1, caballo HD www.achoAPPS.com mundo
+http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/214/index.m3u8
+
+#EXTINF: -1, KTRK Sport (KG)
+http://onlinetv.ktrk.kg:1935/ live / myStream4 / playlist.m3u8
+
+#EXTINF: -1, CHL
+http://37.193.58.164:4022/udp/239.1.12.6:1234
+
+#EXTINF: -1, CHL
+http://158.46.72.186:81/udp/239.255.42.166:1234
+
+#EXTINF : -1, KHL
+http://46.241.65.10:81/udp/239.54.6.250:1234
+
+#EXTINF: - 1, KHL TV
+http://5.8.203.183:5055/play/a091
+
+#EXTINF: -1, KHL TV
+http://37.8.151.208:4022/udp/224.3.20.37:1234
+
+#EXTINF: -1, KHL TV
+http://95.31.7.130:4022/udp/233.33.210.176:5050
+
+#EXTINF: -1, Match TV
+http://91.205.164.201:8181/udp/239.8.1.3:1234
+
+#EXTINF: -1, Match TV HD www.achoAPPS.com
+http://91.231.219.145:80/tv_match_tv_HD/playlist.m3u8
+
+#EXTINF: -1, empareja!
+http://37.235.133.111:81/udp/225.50.66.91:1234
+
+#EXTINF: -1, empareja!
+http://158.46.245.158:81/udp/239.255.0.3:1234
+
+#EXTINF: -1, Match!
+http://46.32.64.42/s/live/3/86.169.51.136/0/0.m3u8
+
+#EXTINF: -1, Match!
+http://gorod.tv/s/live/3/86.169.51.136/0/0.m3u8
+
+#EXTINF: -1, Match! HD www.achoAPPS.com
+http://46.241.65.10:81/udp/239.54.7.152:1224
+
+#EXTINF: -1, Match! HD www.achoAPPS.com
+http://188.35.9.5:10007/stolen/196k/parasite.install
+
+#EXTINF: -1, Match! HD www.achoAPPS.com
+http://95.170.157.5:8088/channel58.m3u8
+
+#EXTINF: -1, Match! Arena
+http://37.235.129.67:81/udp/225.50.64.42:1234
+
+#EXTINF: -1, Match! Arena
+http://95.170.157.5:8088/channel59.m3u8
+
+#EXTINF: -1, Match! Arena
+http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/528/index.m3u8
+
+#EXTINF: -1, MATCH! ARENA
+http://46.241.65.10:81/udp/239.54.6.85:1224
+
+#EXTINF: -1, MATCH! ARENA
+http://91.205.164.201:8181/udp/239.2.2.2:1234
+
+#EXTINF: -1, MATCH! ARENA
+http://46.241.65.10:81/udp/239.54.6.176:1224
+
+#EXTINF: -1, MATCH! ARENA
+http://83.246.248.212:81/udp/239.54.7.85:1224
+
+#EXTINF: -1, Match! HD www.achoAPPS.com Arena
+http://91.231.219.145:80/tv_match_arena_HD/playlist.m3u8
+
+#EXTINF: -1, Match! Arena HD www.achoAPPS.com
+http://pr2pr.net/kanalas/VnGuU1/182
+
+#EXTINF: -1, Match! HD www.achoAPPS.com Arena
+http://95.170.157.5:8088/channel60.m3u8
+
+#EXTINF: -1, MATCH! ARENA HD www.achoAPPS.com
+http://185.13.134.215:81/udp/239.254.2.138:1234
+
+#EXTINF: -1, MATCH! ARENA HD www.achoAPPS.com
+http://89.23.17.213:8888/udp/239.1.1.151:1234
+
+#EXTINF: -1, MATCH! HD www.achoAPPS.com Arena
+http://37.235.133.111:81/udp/225.50.71.26:1234
+
+#EXTINF: -1, Match! Luchador
+http://109.171.20.85:81/udp/239.54.7.25:1224
+
+#EXTINF: -1, Match! El luchador
+http://178.163.5.160:4022/udp/234.0.0.6:2000
+
+#EXTINF: -1, MATCH! SOLDADO
+http://185.13.134.215:81/udp/239.254.2.104:1234
+
+#EXTINF: -1, PARTIDO! SOLDADO
+http://83.246.248.212:81/udp/239.54.7.21:1224
+
+#EXTINF: -1, PARTIDO! SOLDADO
+http://91.205.164.201:8181/udp/239.2.2.3:1234
+
+#EXTINF: -1, partido! El juego
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8
+
+#EXTINF: -1, Match! El juego
+http://178.163.5.160:4022/udp/234.0.0.211:2000
+
+#EXTINF: -1, Match! El juego
+http://37.235.129.67:81/udp/225.50.64.41:1234
+
+#EXTINF: -1, Match! El juego es
+http://95.170.157.5:8088/channel61.m3u8
+
+#EXTINF: -1, Match! El juego
+http://persik.by/stream/3931/396361/10270.m3u8
+
+#EXTINF: -1, MATCH! JUEGO
+http://91.205.164.201:8181/udp/239.2.2.4:1234
+
+#EXTINF: -1, MATCH! JUEGO
+http://46.241.65.10:81/udp/239.54.6.177:1224
+
+#EXTINF: -1, MATCH! JUEGO
+http://37.235.133.111:81/udp/225.50.64.41:1234
+
+#EXTINF: -1, MATCH! JUEGO
+http://185.13.134.215:81/udp/239.254.2.145:1234
+
+#EXTINF: -1, Match! Juego de alta definición
+http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/225/index.m3u8
+
+#EXTINF: -1, Match! El juego en HD www.achoAPPS.com
+http://178.163.16.66:4022/udp/234.0.0.6:2000
+
+#EXTINF: -1, Match! Juego HD www.achoAPPS.com
+http://pr2pr.net/kanalas/VnGuU1/248
+
+#EXTINF: -1, Match! Nuestro deporte
+http://persik.by/stream/3931/396361/10271.m3u8
+
+#EXTINF: -1, Match! Nuestro deporte
+http://176.14.229.211:4022/udp/233.33.220.19:5050
+
+#EXTINF: -1, MATCH! Nuestro deporte
+http://185.13.134.215:81/udp/239.254.2.13:1234
+
+#EXTINF: -1, Match! Planeta
+http://176.101.120.127:1234/udp/239.255.128.114:1234
+
+#EXTINF: -1, Match! Planeta
+http://109.248.236.41:4433/udp/238.1.1.39:1234
+
+#EXTINF: -1, Match! Planet
+http://stream.euroasia.lfstrm.tv/boets/1/index.m3u8
+
+#EXTINF: -1, Match! Premier http://zona-iptv.ru/
+http://109.248.236.41:4433/udp/238.1.1.76:1234
+
+#EXTINF: -1, Match! Premier
+http://95.170.157.5:8088/channel69.m3u8
+
+#EXTINF: -1, Match! Premier HD www.achoAPPS.com
+http://pr2pr.net/kanalas/VnGuU1/546
+
+#EXTINF: -1, Match! Premier HD www.achoAPPS.com
+http://95.170.157.5:8088/channel70.m3u8
+
+#EXTINF: -1, Match! País
+http://5.8.203.183:5055/play/a098
+
+#EXTINF: -1, Match! País
+http://persik.by/stream/492/345860/10271.m3u8?codec=em9uYS1pcHR2LnJ1
+
+#EXTINF: -1, Match! TV
+http://46.32.64.42/s/live/3/9.9.9.9/0/0.m3u8
+
+#EXTINF: -1, Match! TV
+http://109.70.184.20:8080/udp/239.195.32.3:1234
+
+#EXTINF: -1, Match! TV
+http://gorod.tv/s/live/3/134.249.65.172/0/0.m3u8
+
+#EXTINF: -1, Match! TV
+http://46.32.64.42/s/live/3/100.0.0.16/1/0.m3u8
+
+#EXTINF: -1, Match! TV
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+
+#EXTINF: -1, Match! Televisión
+http://176.101.224.21:8080/udp/239.195.32.3:1234
+
+#EXTINF: -1, Match! TV
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/535/index.m3u8
+
+#EXTINF: -1, Match! TV
+http://5.8.203.183:5055/play/a050
+
+#EXTINF: -1, Match! TV HD www.achoAPPS.com
+http://pr2pr.net/kanalas/VnGuU1/201
+
+#EXTINF: -1, Match! Soccer 1
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/124/index.m3u8
+
+#EXTINF: -1, Match! Soccer 1
+http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/124/index.m3u8
+
+#EXTINF: -1, Match! Football 1 HD www.achoAPPS.com
+http://persik.by/stream/3931/396361/10266.m3u8
+
+#EXTINF: -1, Match! Fútbol 2
+http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/530/index.m3u8
+
+#EXTINF: -1, Match! Fútbol 3
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/522/index.m3u8
+
+#EXTINF: -1, Match! Football 3
+http://persik.by/stream/3931/396361/10218.m3u8
+
+#EXTINF: -1, Match! Football 3 HD www.achoAPPS.com
+http://persik.by/stream/3931/396361/10268.m3u8
+
+#EXTINF: -1, Match! Football 3 HD www.achoAPPS.com
+http://91.90.253.66:8080/CH615_std/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, Nuestro fútbol
+http://185.13.134.215:81/udp/239.254.2.103:1234
+
+#EXTINF: -1, Nuestro fútbol
+http://37.235.133.111:81/udp/225.50.67.1:1234
+
+#EXTINF: -1, NUESTRO FÚTBOL HD www.achoAPPS.com
+http://185.13.134.215:81/udp/239.254.2.78:1234
+
+#EXTINF: -1, RUSIA 2
+http://46.241.79.183:81/udp/239.0.42.10:1224
+
+#EXTINF : -1, RUSIA 2
+http://46.241.65.10:81/udp/239.0.42.10:1224
+
+#EXTINF: -1, RUSIA 2
+http://37.193.58.164:4022/udp/239.1.15.16:1234
+
+#EXTINF: -1, Sport
+http://37.193.58.164:4022/udp/239.1.12.10:1234
+
+#EXTINF: -1, Sport 2 Ukraine
+http://91.90.253.66:8080/CH630_std/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, Start HD www.achoAPPS.com
+https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
+
+#EXTINF: -1, Inicio HD www.achoAPPS.com 720
+https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
+
+#EXTINF: -1, canal KHL
+http://109.248.236.41:4433/udp/238.1.1.112:1234
+
+#EXTINF: -1, canal de televisión de fútbol
+http://109.248.236.41:4433/udp/238.1.1.14:1234
+
+#EXTINF: -1, Football Channel
+https://strm.yandex.ru/kal/football/football0_169_360p.json/index-v1-a1.m3u8
+
+#EXTINF: -1, Football HD www.achoAPPS.com Channel (RU)
+https://strm.yandex.ru/kal/football/football0_169_720p.json/index-v1-a1.m3u8
+
+#EXTINF: -1, punto separación
+http://109.248.236.41:4433/udp/238.1.1.127:1234
+
+#EXTINF: -1, el punto de separación
+http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/159/index.m3u8
+
+#EXTINF: -1 , Fútbol
+http://83.246.248.212:81/udp/239.54.7.153:1224
+
+#EXTINF: -1, Fútbol
+https://strm.yandex.ru/kal/football/football0.m3u8
+
+#EXTINF : -1, Fútbol http://zona-iptv.ru/
+http://37.193.58.164:4022/udp/239.1.12.5:1234
+
+#EXTINF: -1, Football 2 Ukraine
+http://193.93.216.50:8000/play/Football2/index.m3u8
